@@ -20,10 +20,10 @@ const songs = [
         artist: 'AMEE x Hoàng Dũng',
     },
     {
-        path: 'minhtri.mp3',
-        displayName: 'Seven',
-        cover: 'tri0.jpg',
-        artist: 'Jungk00k',
+        path: '3.mp3.mp3',
+        displayName: 'Sinh Nhật',
+        cover: '3.jpg',
+        artist: 'Hieuthuhai, Manbo, HurryKng',
     },
 ];
 
